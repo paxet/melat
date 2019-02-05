@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "melat"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Javier Caballero Lloris <jacallo@protonmail.com>"]
 
